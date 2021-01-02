@@ -1,7 +1,7 @@
 {
   "name": "swiftlint-to-annotations",
   "main": "bin/swiftlint-to-annotations.js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A command line app for turning swiftlint output to annotation json for GitHub checks",
   "license": "MIT",
   "repository": "davidahouse/swiftlint-to-annotations",
